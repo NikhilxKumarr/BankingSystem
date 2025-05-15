@@ -27,4 +27,29 @@ All user data is stored in individual text files, making it a beginner-friendly 
 ---
 
 ## 📁 Project Structure
+BankManagementSystem/
+│
+├── main.cpp # Main C++ source file (contains all logic)
+├── README.md # You're here!
+├── *.txt # Auto-generated account data file
+
+
+## 🚀 How to Run
+
+1. **Clone the repository**
+
+
+git clone [https://github.com/your-username/BankManagementSystem.git](https://github.com/NikhilxKumarr/NikhilKumarBankingSystem.git)
+
+
+
+
+
+##  Author
+Nikhil Kumar
+
+This project is part of an academic learning . Feel free to  modify, or expand it!
+
+
+
 
