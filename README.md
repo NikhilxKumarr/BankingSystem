@@ -1,4 +1,4 @@
-#  Nikhil Kumar Bank Of India - C++ Bank Management System
+#   C++ Bank Management System
 
 This is a simple **Bank Management System** written in **C++**, simulating core banking operations like account creation, login, deposit, withdrawal, balance check, and transaction history management.
 
